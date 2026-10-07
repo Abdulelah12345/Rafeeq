@@ -2,8 +2,6 @@
 
 Rafeeq is a Spring Boot healthcare support platform that uses user health data, medication schedules, nutrition plans, exercise plans, and AI-assisted analysis to provide personalized health guidance and planning features.
 
-> This README highlights **Abdulelah's contributions** to the project.
-
 ## My Contributions
 
 I implemented **11 endpoints** focused on personalized nutrition, exercise planning, medication timing, and health-plan monitoring.
