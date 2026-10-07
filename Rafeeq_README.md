@@ -45,7 +45,6 @@ I implemented **11 endpoints** focused on personalized nutrition, exercise plann
 - Jakarta Validation
 - Lombok
 - Anthropic AI API
-- Jackson `ObjectMapper`
 - Spring Mail / `JavaMailSender`
 - Maven
 
